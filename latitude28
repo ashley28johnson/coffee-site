@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>
+    LATITUDE 28
+  </title>
+  <style>
+  .container{
+  background-image: url("images/coffee-beans.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  }
+
+</style>
+
+ <!-- Get Bootstrap from here: http://getbootstrap.com/getting-started/ -->
+
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+ <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Open+Sans+Condensed:300" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <div class="image text-center">
+      <h2>
+      <font face="futura light" color="white">Welcome to</font>
+      </h2>
+      <p>
+        <h1>
+          <font face="playfairdisplay" color="white">LATITUDE 28</font>
+        </h1>
+        </p>
+        <p>
+          <font face="futura light" color="white">LEXINGTON, KY</font>
+        </p>
+      </div>
+    </div>
+
+
+
+    <div class="container">
+       <div class="row">
+         <div class="col-sm-4">
+           <h1>MENU</h1>
+         </div>
+         <div class="col-sm-4">
+           <h1>ABOUT</h1>
+         </div>
+         <div class="col-sm-4">
+           <h1>CONTACT</h1>
+         </div>
+       </div>
+     </div>
+
+  </body>
+  </html>
