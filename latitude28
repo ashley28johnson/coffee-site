@@ -6,30 +6,35 @@
   </title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Open+Sans+Condensed:300" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Playfair+Display" />
   <style>
   body{
   background-image: url("images/coffee-beans.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  color: white;
   }
-
+h1{
+  font-family:"playfair display";
+  font-weight: bold;
+}
 </style>
 
  <!-- Get Bootstrap from here: http://getbootstrap.com/getting-started/ -->
 
 </head>
 <body>
-  <header>
+  <header class="text-center">
       <h2>
-      <font face="futura light" color="white">Welcome to</font>
+      Welcome to
       </h2>
       <p>
         <h1>
-          <font face="playfairdisplay" color="white">LATITUDE 28</font>
+          LATITUDE 28
         </h1>
         </p>
         <p>
-          <font face="futura light" color="white">LEXINGTON, KY</font>
+          L E X I N G T O N, K Y
         </p>
     </header>
 
